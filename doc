@@ -20,3 +20,5 @@ git switch -c feature
 git add .
 git commit -m "Added multiplication feature"
 git push -u origin feature
+git checkout main
+git pull origin main
